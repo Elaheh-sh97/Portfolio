@@ -1,0 +1,59 @@
+header{
+    background: linear-gradient(181.2deg, rgb(181, 239, 249) 10.5%, rgb(254, 254, 254) 86.8%);
+    width:100%;
+    height:700px
+}
+.titles{
+    display: flex;
+align-items:center;
+justify-content: center;
+flex-direction: column;
+margin-top: 160px;
+}
+.titles h3,h2{
+    font-family:'Poppins', sans-serif;
+}
+.titles h3{
+    font-weight: 700;
+}
+.titles h2{
+    font-weight: 400;
+}
+.titles h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+.titles button{
+    width:120px;
+}
+.ProjectName{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 700px;
+    text-align: center;
+}
+.paragraph{
+    font-family:'Poppins', sans-serif;
+color: #272142
+;
+}
+.workInquiryBox{
+    display: flex;
+flex-direction: row;
+    background-color: rgb(181, 239, 249);
+    justify-content: space-around;
+    align-items:center ;
+    border-radius: 15px;
+    margin-top: 30%;
+margin: 10%;
+padding: 5%;
+}
+.workInquiryTitle{
+    font-family: 'Playfair Display', serif;
+}
+.email{
+    font-family:'Poppins', sans-serif;
+    font-weight: 500px;
+    font-size: 24px;
+
+}
