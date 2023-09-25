@@ -1,14 +1,16 @@
 header{
     background: linear-gradient(181.2deg, rgb(181, 239, 249) 10.5%, rgb(254, 254, 254) 86.8%);
-    width:100%;
+  width:100%;
     height:700px
 }
+
 .titles{
     display: flex;
 align-items:center;
 justify-content: center;
 flex-direction: column;
 margin-top: 160px;
+text-align: center;
 }
 .titles h3,h2{
     font-family:'Poppins', sans-serif;
@@ -18,6 +20,7 @@ margin-top: 160px;
 }
 .titles h2{
     font-weight: 400;
+    
 }
 .titles h1{
     font-family: 'Playfair Display', serif;
